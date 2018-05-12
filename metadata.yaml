@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6323'
     url: http://www.gutenberg.org/2009/agents/6323
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15822#The-Faithful-Steward--13-Or-Systematic-Beneficence-an-Essential-of-Christian-Character
 gutenberg_issued: '2005-05-12'
 gutenberg_type: Text
 identifiers:
