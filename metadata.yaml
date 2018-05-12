@@ -1,0 +1,26 @@
+_repo: The-Faithful-Steward--13-Or-Systematic-Beneficence-an-Essential-of-Christian-Character_15822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Sereno D. (Sereno Dickenson)
+    gutenberg_agent_id: '6323'
+    url: http://www.gutenberg.org/2009/agents/6323
+description: ''
+gutenberg_issued: '2005-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finance, Personal -- Religious aspects -- Christianity'
+- !lcsh 'Christian stewardship'
+- !lcc 'BV'
+title: "The Faithful Steward\r\nOr, Systematic Beneficence an Essential of Christian\
+  \ Character"
+url: http://www.gutenberg.org/ebooks/15822
